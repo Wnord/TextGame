@@ -17,6 +17,7 @@ namespace TextGame{
             player.HealthCurrent += -10;
             Console.WriteLine("Health: " + player.HealthCurrent + "/" + player.HealthMax);
 
+            MainMenu.PrintMenu();
             
         }
     }
