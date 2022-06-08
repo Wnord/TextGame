@@ -1,0 +1,15 @@
+/Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/TextGame.csproj.AssemblyReference.cache
+/Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/TextGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/TextGame.AssemblyInfoInputs.cache
+/Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/TextGame.AssemblyInfo.cs
+/Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/TextGame.csproj.CoreCompileInputs.cache
+/Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/TextGame.dll
+/Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/refint/TextGame.dll
+/Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/TextGame.pdb
+/Users/dudmac/Documents/VSCode/TextGame/bin/Debug/net6.0/TextGame
+/Users/dudmac/Documents/VSCode/TextGame/bin/Debug/net6.0/TextGame.deps.json
+/Users/dudmac/Documents/VSCode/TextGame/bin/Debug/net6.0/TextGame.runtimeconfig.json
+/Users/dudmac/Documents/VSCode/TextGame/bin/Debug/net6.0/TextGame.dll
+/Users/dudmac/Documents/VSCode/TextGame/bin/Debug/net6.0/TextGame.pdb
+/Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/TextGame.genruntimeconfig.cache
+/Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/ref/TextGame.dll
