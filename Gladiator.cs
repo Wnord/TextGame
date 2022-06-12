@@ -2,17 +2,17 @@ using System;
 
 namespace TextGame{
 
-    class Gladiator{
+    public class Gladiator{
 
-        public Gladiator(string _name, string _combatClass, double _health, double _stamina, double _mana){
+        public Gladiator(string _name, string _combatClass){
             Name = _name;
             CombatClass = _combatClass;
-            HealthMax = _health;
-            HealthCurrent = _health;
-            StaminaMax = _stamina;
-            StaminaCurrent = _stamina;
-            ManaMax = _mana;
-            ManaCurrent = _mana;
+            HealthMax = 100;
+            HealthCurrent = this.HealthMax;
+            StaminaMax = 100;
+            StaminaCurrent = this.StaminaMax;
+            ManaMax = 100;
+            ManaCurrent = this.ManaMax;
         }
 
         public string Name { get; set; }

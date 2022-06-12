@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dudmac/Documents/VSCode/TextGame/TextGame.csproj": {}
+    "C:\\Users\\William\\Documents\\Visual Studio Code Projects\\TextGame\\TextGame.csproj": {}
   },
   "projects": {
-    "/Users/dudmac/Documents/VSCode/TextGame/TextGame.csproj": {
+    "C:\\Users\\William\\Documents\\Visual Studio Code Projects\\TextGame\\TextGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dudmac/Documents/VSCode/TextGame/TextGame.csproj",
+        "projectUniqueName": "C:\\Users\\William\\Documents\\Visual Studio Code Projects\\TextGame\\TextGame.csproj",
         "projectName": "TextGame",
-        "projectPath": "/Users/dudmac/Documents/VSCode/TextGame/TextGame.csproj",
-        "packagesPath": "/Users/dudmac/.nuget/packages/",
-        "outputPath": "/Users/dudmac/Documents/VSCode/TextGame/obj/",
+        "projectPath": "C:\\Users\\William\\Documents\\Visual Studio Code Projects\\TextGame\\TextGame.csproj",
+        "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\William\\Documents\\Visual Studio Code Projects\\TextGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/dudmac/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

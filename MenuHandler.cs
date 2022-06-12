@@ -22,7 +22,7 @@ namespace TextGame{
                     case 2: Console.WriteLine("Choice 2 will load existing game..."); returnValue = 2; break;
                     case 3: Console.WriteLine("Choice 3 will open settings menu..."); returnValue = 3; break;
                     case 0: Console.WriteLine("Choice 0: Exiting game..."); returnValue = 0; break;
-                    default: Console.WriteLine("Switch defaulted."); returnValue = -1; break;
+                    default: Console.WriteLine("[ERROR/MenuHandler.cs] PrintMenu: Switch defaulted."); returnValue = -1; break;
                 }
             }
 
@@ -54,12 +54,39 @@ namespace TextGame{
             return convertedInput;
         }
 
-        public static int NewGameMenu(){
+        public static Gladiator NewGameMenu(){
             int newGameReturnValue = -1;
+            int menuChoice = -1;
+            bool classChosen = false;
+
+            string gName = "";
+            string gClass = "def";
 
             //Menu for starting new game (create char)
 
-            return newGameReturnValue;
+            while(!classChosen){
+                Console.WriteLine("\nChoose a class for your gladiator:");
+                Console.WriteLine("[1] Warrior");
+                Console.WriteLine("[2] Mage");
+                Console.WriteLine("[3] Rogue\n");
+
+                switch(menuChoice = GetInput()){
+                    case 1: gClass = "Warrior"; classChosen = true; break;
+                    case 2: gClass = "Mage"; classChosen = true; break;
+                    case 3: gClass = "Rogue"; classChosen = true; break;
+                    default: Console.WriteLine("[ERROR/MenuHandler.cs/NewGameMenu] Switch defaulted, try again."); break;
+                }
+            }
+
+            while(String.IsNullOrEmpty(gName)){
+                Console.WriteLine("What should your gladiator be named?");
+                Console.Write("Name: ");
+                gName = Console.ReadLine();
+            }
+
+            Gladiator newGladiator = new Gladiator(gName, gClass);
+
+            return newGladiator;
         }
 
     }

@@ -13,3 +13,18 @@
 /Users/dudmac/Documents/VSCode/TextGame/bin/Debug/net6.0/TextGame.pdb
 /Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/TextGame.genruntimeconfig.cache
 /Users/dudmac/Documents/VSCode/TextGame/obj/Debug/net6.0/ref/TextGame.dll
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\bin\Debug\net6.0\TextGame.exe
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\bin\Debug\net6.0\TextGame.deps.json
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\bin\Debug\net6.0\TextGame.runtimeconfig.json
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\bin\Debug\net6.0\TextGame.dll
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\bin\Debug\net6.0\TextGame.pdb
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\obj\Debug\net6.0\TextGame.csproj.AssemblyReference.cache
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\obj\Debug\net6.0\TextGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\obj\Debug\net6.0\TextGame.AssemblyInfoInputs.cache
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\obj\Debug\net6.0\TextGame.AssemblyInfo.cs
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\obj\Debug\net6.0\TextGame.csproj.CoreCompileInputs.cache
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\obj\Debug\net6.0\TextGame.dll
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\obj\Debug\net6.0\refint\TextGame.dll
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\obj\Debug\net6.0\TextGame.pdb
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\obj\Debug\net6.0\TextGame.genruntimeconfig.cache
+C:\Users\William\Documents\Visual Studio Code Projects\TextGame\obj\Debug\net6.0\ref\TextGame.dll
