@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ckrnF1cgesoIoshiaA9AvSd6oPyJlOwzz5XFYUJjN0qYuk8Vbic4l+9yrXn+fPre06IVf2sIZOfWAKGL/tp8vQ==",
+  "dgSpecHash": "lxmc25Qz1b+YK9Si1mEnihPQ0tL3VjuBrQTGQGYTjxJBOttTHgmLD20zVxOP93EamAHme5dz2nebLoFetN4JoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\William\\Documents\\Visual Studio Code Projects\\TextGame\\TextGame.csproj",
+  "projectFilePath": "/Users/dudmac/Documents/VSCode/TextGame/TextGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,7 +10,7 @@ namespace TextGame{
 
             int menuReturnValue;
             bool shouldExit = false;
-            Gladiator playerGladiator;
+            Gladiator playerGladiator = null;
 
             //Gladiator player = new Gladiator("William", "Mage", 100, 100, 100);
             
@@ -21,13 +21,21 @@ namespace TextGame{
             //player.HealthCurrent += -10;
             //Console.WriteLine("Health: " + player.HealthCurrent + "/" + player.HealthMax);
 
-            menuReturnValue = MenuHandler.PrintMenu();
+            
 
             while(!shouldExit){
+
+                menuReturnValue = MenuHandler.PrintMenu();
+
                 switch(menuReturnValue){
-                    case 1: Console.WriteLine("Program.cs received return value 1, should start new game..."); 
-                            playerGladiator = MenuHandler.NewGameMenu();
-                            GladiatorTestPrint(playerGladiator);
+                    case 1: Console.WriteLine("Program.cs received return value 1, should start new game...");
+                            if(playerGladiator == null){
+                                playerGladiator = MenuHandler.NewGameMenu();
+                            }
+                            if(playerGladiator != null){
+                                GladiatorTestPrint(playerGladiator);
+                            }
+                            //shouldExit = true;
                             break;
                     case 2: Console.WriteLine("Program.cs received return value 2, should load game..."); break;
                     case 3: Console.WriteLine("Program.cs received return value 3, should open settings..."); break;
